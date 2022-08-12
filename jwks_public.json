@@ -1,0 +1,20 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "use": "sig",
+            "n": "ANLRIDoHN7WmESA1r1NyvWbXvyJCz5Xna0CNjABYvkDRqt1GUcKuCGJxb4cv62HtplD_1BMEsdXS-0E_vEYVSVnKGb0w2xF0qpVGYkaPmSpwHOwb6H-I_PAzyu2Mwbkgtp4xeF_X4rWmXu-nvo3SP4LqL1FQFJvOk2UB-QY6aN7TE9_ikEqcgOqqL-HepmNnxNm2yHDloTfjrEs0uzDU98Q1o-NLqHwE5Nds3tvkrVymd5YBPkzS_ux0jl30k0odjLHQ4BbOFMSl719injkEv03ljRkBTLdo-sOrZGvAzpiJu80BplJ9S-TnYGuqoWBkVCe88G2abTqCEO6oW4-Xc3CcfwHMiVYrwe3UTOqTBEfZhDIeNYnTs4F4vsDqnGvDYgM_lnbjCiQCmWD-fg0aHDLDye81wJ3M4Yo0JdRjAe0Y3Qx2a9bK5wB2eFKD97V_LandT5v_nDQ9clfq7ROJcN00WrY5l4lBmBRA7O8zJDlzpmjLwd7I1DFQMifWh9pmmq516iluDelAMNWi7okRVNB-mVtNUXNyXMuYOydyTD4OdaK1sdWLMZAFDFJgK8LgoY-Dm-iKK2NUnTYN_B8wzgAueENij53mDrsjMhe1GlbyoeQIa2gVxasX80rzsf50MjvZ39xRtvHcZ1-QSSCcNKRfZX7gIxjv5nbEcDtqpVJd",
+            "e": "AQAB",
+            "kid": "thinkable-school",
+            "alg": "RS256"
+        },
+        {
+            "kty": "RSA",
+            "use": "enc",
+            "n": "AK7PahYFqWZ4Bgc0xq1gnrXUExiHS89EibPPUm_YvAhJae8fT6yO0gF7XUNZfjiiSjZvI7fqfGbOOXBJlQfHO_PS6LXkIFRGBx8k7cUHOk8PMSPG8prsDnZM54LOeLX92rSuYN3vHSR79hTcqXJKduns2GzKQ6PqTo_NgsF0ee-YaZjJLXgb1nagN_Sq6HMFy7OioGu-PPxQIBu5RKnhbVd0v_jpH3iYtUU-PaMMk8A7-aTetqoxhDAYc0vdxCPpP4a63y7hoZaUI3oFPAP9bEGffPhc3JZD3SM37UT8QjdXrE-b-VemaCeA7iZUbwdsjKWCDZ17w5U0w2k3GGXj-WcnetRwR0s-M9WYq_R-XJ3QfXOPKH4UAGpFs_BhpvX3xyYbeOql1xDjbzGs3PO49yCvX1hhJWiuhWFaHXz2MIA-_ER4VzudFwu3wdrWxY01Es1FrvLmCzZSVE3nnvRGmTV90a5WqX2MPN8VPWcFcn_Mt8_bt-fN6mmGS6tSbkrF8Vumfon7fZzIXyLMdVMkFtunVfz9lG8KcoQM_zBizVzFVZ6Dhr4RCP8bp_oODFe9aYb_PC7nOBq0gg1kcae_tLc2Q606NV2vEytHdeTFkY1XV-ZI_fMQzT1aZ1i-2FA8Wa0DRNQS6dfSXRMJFUvC9FU8nOQ_B5lA-KJlYnbuZ8TF",
+            "e": "AQAB",
+            "kid": "perpetual-tent",
+            "alg": "RSA-OAEP"
+        }
+    ]
+}
